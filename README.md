@@ -1,4 +1,8 @@
 
-Still working on it, so if you find any issues just put them in issues tab pls
+Low-Poly Drift Game.
+
+Game is still WIP so expect problems.
+
+Working on patching out bugs asap.
 
 Thanks for playing! From Iced (Mason)
