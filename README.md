@@ -9,13 +9,8 @@ Working on patching out bugs asap.
 V2 is up now!
 
 Thanks for playing! From Iced (Mason)
- 
- 
-Issues
-=
 
-~~Car glitching into ground~~
 
-~~Drifting making the car do a frontflip~~
+I lost the unity project for this sooooooooooo... 
 
-Still able to fall off map
+No updates for a while
